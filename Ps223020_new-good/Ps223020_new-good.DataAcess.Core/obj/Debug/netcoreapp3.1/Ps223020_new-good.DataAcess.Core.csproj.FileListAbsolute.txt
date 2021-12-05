@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAcess.Core\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.deps.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAcess.Core\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAcess.Core\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAcess.Core\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAcess.Core\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.AssemblyInfo.cs

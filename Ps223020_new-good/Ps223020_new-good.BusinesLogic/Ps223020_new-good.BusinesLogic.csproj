@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ps223020_new_good.BusinesLogic</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ps223020_new-good.BusinesLogic.Core\Ps223020_new-good.BusinesLogic.Core.csproj" />
+    <ProjectReference Include="..\Ps223020_new-good.DataAcess.Core\Ps223020_new-good.DataAcess.Core.csproj" />
+    <ProjectReference Include="..\Share\Share.csproj" />
+  </ItemGroup>
+
+</Project>

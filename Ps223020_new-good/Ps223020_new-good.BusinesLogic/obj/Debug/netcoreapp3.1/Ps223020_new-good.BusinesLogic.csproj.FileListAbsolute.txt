@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.deps.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.AssemblyInfo.cs
