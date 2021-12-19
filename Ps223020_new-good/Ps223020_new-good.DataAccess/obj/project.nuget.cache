@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "5jPkQoZ34v8Lc2HEEL29AJPUgSClBlUju6mTZR3MnknL5ry6MKSnVtTPOuJHkM2QBw5K6CadHZm0C4jebJLnJg==",
+  "dgSpecHash": "8rKQk1txzzm1INg8qbKtpa/p8Vm2RPLvjxHMvBt6Ut0qEG7/w+8Jok2G4eSZ4Qpl4QndNdsbQS+EfL/0GvDBVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\StudentDev\\Documents\\ufdyj\\Ps223020_new-good\\Ps223020_new-good\\Ps223020_new-good.DataAccess\\Ps223020_new-good.DataAccess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.21\\microsoft.entityframeworkcore.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.21\\microsoft.entityframeworkcore.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.21\\microsoft.entityframeworkcore.analyzers.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.21\\microsoft.extensions.caching.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.21\\microsoft.extensions.caching.memory.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.21\\microsoft.extensions.configuration.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.21\\microsoft.extensions.configuration.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.21\\microsoft.extensions.configuration.binder.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.21\\microsoft.extensions.dependencyinjection.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.21\\microsoft.extensions.dependencyinjection.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.logging\\3.1.21\\microsoft.extensions.logging.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.21\\microsoft.extensions.logging.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.options\\3.1.21\\microsoft.extensions.options.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.21\\microsoft.extensions.primitives.3.1.21.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\syncfusion.licensing\\19.4.0.38\\syncfusion.licensing.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\syncfusion.xamarin.core\\19.4.0.38\\syncfusion.xamarin.core.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -5,4 +5,12 @@
     <RootNamespace>Ps223020_new_good.DataAccess</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Xamarin.Core" Version="19.4.0.38" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ps223020_new-good.DataAcess.Core\Ps223020_new-good.DataAcess.Core.csproj" />
+  </ItemGroup>
+
 </Project>

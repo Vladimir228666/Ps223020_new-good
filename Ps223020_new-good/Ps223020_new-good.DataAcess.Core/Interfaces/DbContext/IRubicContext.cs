@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Ps223020_new_good.DataAcess.Core.Interfaces.DbContext
 {
-    public interface RubicContext : IDisposable, IAsyncDisposable
+    public interface IRubicContext : IDisposable, IAsyncDisposable
     {
         DbSet<UserRto> Users { get; set; }
         DbSet<UserRoleRto> UserRoles { get; set; }

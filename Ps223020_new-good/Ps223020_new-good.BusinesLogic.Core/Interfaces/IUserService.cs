@@ -16,6 +16,6 @@ namespace Ps223020_new_good.BusinesLogic.Core.Interfaces
         Task<UserInformationBlo> Get(int userId);
         Task<UserInformationBlo> Update(string numberPrefix, string number, string password, UserUpdateBlo userUpdateBlo);
         Task<bool> DoesExist();
-        Task<UserInformationBlo> Get(int userId);
+        Task<UserInformationBlo> DoesExists(int userId);
     }
 }
