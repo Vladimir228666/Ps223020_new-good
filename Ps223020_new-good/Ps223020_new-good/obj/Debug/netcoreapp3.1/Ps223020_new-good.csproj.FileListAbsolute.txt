@@ -1,0 +1,10 @@
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\bin\Debug\netcoreapp3.1\Ps223020_new-good.exe
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\Ps223020_new-good.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\Ps223020_new-good.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\Ps223020_new-good.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\Ps223020_new-good.RazorTargetAssemblyInfo.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\staticwebassets\Ps223020_new-good.StaticWebAssets.Manifest.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good\obj\Debug\netcoreapp3.1\staticwebassets\Ps223020_new-good.StaticWebAssets.xml

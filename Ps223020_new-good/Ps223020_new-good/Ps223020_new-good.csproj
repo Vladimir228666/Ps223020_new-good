@@ -6,7 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ps223020_new-good.BusinesLogic.Core\Ps223020_new-good.BusinesLogic.Core.csproj" />
+    <ProjectReference Include="..\Ps223020_new-good.BusinesLogic\Ps223020_new-good.BusinesLogic.csproj" />
+    <ProjectReference Include="..\Ps223020_new-good.Core\Ps223020_new-good.Core.csproj" />
+    <ProjectReference Include="..\Ps223020_new-good.DataAccess\Ps223020_new-good.DataAccess.csproj" />
+    <ProjectReference Include="..\Ps223020_new-good.DataAcess.Core\Ps223020_new-good.DataAcess.Core.csproj" />
   </ItemGroup>
 
 

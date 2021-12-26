@@ -109,7 +109,7 @@ namespace Ps223020_new_good.BusinesLogic.Services
             user.AvatarUrl = userUpdateBlo.AvatarUrl;
 
             UserInformationBlo userInfoBlo = await ConverToUserInformationAsync(user);
-            return
+            return userInfoBlo;
         }
 
         Task<UserInformationBlo> IUserService.AutWithEmail(string email, string password)

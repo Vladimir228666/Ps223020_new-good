@@ -10,6 +10,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using AutoMapper;
+using Ps223020_new_good.BusinesLogic.AutoMapperProfile;
+using Ps223020_new_good.Automapper;
+using Ps223020_new_good.DataAcess.Core.Interfaces.DbContext;
+using Ps223020_new_good.DataAccess.DbContext;
+using Microsoft.EntityFrameworkCore;
 
 namespace Ps223020_new_good
 {
@@ -25,6 +31,8 @@ namespace Ps223020_new_good
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(BusinesLogicProfile),typeof(MicroserviceProfile));
+            services.AddDbContext<IRubicContext, RubicContext>(o => o.UseSqlite("Data Source=rubicone.db"));
             services.AddControllers();
         }
 
@@ -35,8 +43,6 @@ namespace Ps223020_new_good
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 
