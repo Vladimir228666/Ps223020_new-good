@@ -6,3 +6,11 @@ C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.Core.dll
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.dll
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.Core.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\bin\Debug\netcoreapp3.1\Share.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.csproj.CopyComplete
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.BusinesLogic\obj\Debug\netcoreapp3.1\Ps223020_new-good.BusinesLogic.pdb

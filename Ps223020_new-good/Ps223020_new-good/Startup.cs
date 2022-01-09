@@ -16,6 +16,9 @@ using Ps223020_new_good.Automapper;
 using Ps223020_new_good.DataAcess.Core.Interfaces.DbContext;
 using Ps223020_new_good.DataAccess.DbContext;
 using Microsoft.EntityFrameworkCore;
+using Ps223020_new_good.BusinesLogic.Core.Interfaces;
+using Ps223020_new_good.BusinesLogic.Services;
+using Microsoft.AspNetCore.HttpOverrides;
 
 namespace Ps223020_new_good
 {
@@ -33,7 +36,11 @@ namespace Ps223020_new_good
         {
             services.AddAutoMapper(typeof(BusinesLogicProfile),typeof(MicroserviceProfile));
             services.AddDbContext<IRubicContext, RubicContext>(o => o.UseSqlite("Data Source=rubicone.db"));
+
+            services.AddScoped<IUserService, UserService>();
             services.AddControllers();
+
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,8 +50,22 @@ namespace Ps223020_new_good
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(p => p.AllowAnyMethod().AllowAnyHeader());
 
             app.UseRouting();
+
+            app.UseForwardedHeaders(new ForwardedHeadersOptions
+            {
+                ForwardedHeaders = ForwardedHeaders.XForwardedFor
+                | ForwardedHeaders.XForwardedProto
+            });
+
+            using var scope = app.ApplicationServices.CreateScope();
+            var mapper = scope.ServiceProvider.GetRequiredService<IMapper>();
+            mapper.ConfigurationProvider.AssertConfigurationIsValid();
+
+            var dbContext = scope.ServiceProvider.GetRequiredService<RubicContext>();
+            dbContext.Database.Migrate();
 
             app.UseAuthorization();
 

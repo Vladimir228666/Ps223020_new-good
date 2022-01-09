@@ -2,3 +2,12 @@ C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.deps.json
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\bin\Debug\netcoreapp3.1\Ps223020_new-good.DataAcess.Core.pdb
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\XamlC.stamp
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.csproj.CopyComplete
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.dll
+C:\Users\StudentDev\Documents\ufdyj\Ps223020_new-good\Ps223020_new-good\Ps223020_new-good.DataAccess\obj\Debug\netcoreapp3.1\Ps223020_new-good.DataAccess.pdb
